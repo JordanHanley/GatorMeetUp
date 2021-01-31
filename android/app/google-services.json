@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132006245044",
+    "project_id": "gator-meetup",
+    "storage_bucket": "gator-meetup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132006245044:android:39b25b3e88b306c627dde1",
+        "android_client_info": {
+          "package_name": "com.example.gator_meet_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132006245044-vleovrehosc9c3kbfvsnepdq7on1q6a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW5dq3hfiNMFTXq4qBr_-HMiyqCXTgA0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132006245044-vleovrehosc9c3kbfvsnepdq7on1q6a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
